@@ -1,0 +1,1 @@
+# flytrip-mcp-app
